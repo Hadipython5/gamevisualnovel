@@ -1,3 +1,2 @@
-# gamevisualnovel
-Game ini di buat di max2d kalian 
-bisa membuat apknya sendiri
+# code ga guna
+Ini code pertama buatan gua
